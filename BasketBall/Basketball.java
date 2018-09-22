@@ -1,5 +1,9 @@
 package lab2;
 
+/**
+*@Author Andrei Baechle
+*/
+
 public class Basketball {
 	 /**
 	   * Inflation status of this Basketball.
