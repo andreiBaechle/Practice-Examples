@@ -1,5 +1,9 @@
 package lab2;
 
+/**
+*@Author Andrei Baechle
+*/
+
 public class Basketballtest {
 
 	public static void main(String[] args) {
